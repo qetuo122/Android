@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "74307890313",
+    "firebase_url": "https://chat-78190.firebaseio.com",
+    "project_id": "chat-78190",
+    "storage_bucket": "chat-78190.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74307890313:android:7375096bbd5c760b",
+        "android_client_info": {
+          "package_name": "chat.nra.com.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74307890313-2gvfdjo5auq2jinj2ncounort0g8k8gp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARVBE_QEO_UJojvnhhF_dT9ZTc8C4NvTw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

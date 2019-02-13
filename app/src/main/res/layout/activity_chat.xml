@@ -16,7 +16,7 @@
                 <ListView
                     android:id="@+id/chat_view"
                     android:layout_width="match_parent"
-                    android:layout_height="389dp"
+                    android:layout_height="409dp"
                     android:layout_alignParentBottom="true"
                     android:layout_alignParentStart="true"
                     android:layout_marginBottom="118dp"
